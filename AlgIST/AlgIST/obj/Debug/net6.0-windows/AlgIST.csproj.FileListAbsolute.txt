@@ -1,0 +1,17 @@
+D:\175224\AlgIST\AlgIST\obj\Debug\net6.0-windows\AlgIST.csproj.AssemblyReference.cache
+D:\175224\AlgIST\AlgIST\obj\Debug\net6.0-windows\AlgIST.Form1.resources
+D:\175224\AlgIST\AlgIST\obj\Debug\net6.0-windows\AlgIST.csproj.GenerateResource.cache
+D:\175224\AlgIST\AlgIST\obj\Debug\net6.0-windows\AlgIST.GeneratedMSBuildEditorConfig.editorconfig
+D:\175224\AlgIST\AlgIST\obj\Debug\net6.0-windows\AlgIST.AssemblyInfoInputs.cache
+D:\175224\AlgIST\AlgIST\obj\Debug\net6.0-windows\AlgIST.AssemblyInfo.cs
+D:\175224\AlgIST\AlgIST\obj\Debug\net6.0-windows\AlgIST.csproj.CoreCompileInputs.cache
+D:\175224\AlgIST\AlgIST\bin\Debug\net6.0-windows\AlgIST.exe
+D:\175224\AlgIST\AlgIST\bin\Debug\net6.0-windows\AlgIST.deps.json
+D:\175224\AlgIST\AlgIST\bin\Debug\net6.0-windows\AlgIST.runtimeconfig.json
+D:\175224\AlgIST\AlgIST\bin\Debug\net6.0-windows\AlgIST.dll
+D:\175224\AlgIST\AlgIST\bin\Debug\net6.0-windows\AlgIST.pdb
+D:\175224\AlgIST\AlgIST\obj\Debug\net6.0-windows\AlgIST.dll
+D:\175224\AlgIST\AlgIST\obj\Debug\net6.0-windows\refint\AlgIST.dll
+D:\175224\AlgIST\AlgIST\obj\Debug\net6.0-windows\AlgIST.pdb
+D:\175224\AlgIST\AlgIST\obj\Debug\net6.0-windows\AlgIST.genruntimeconfig.cache
+D:\175224\AlgIST\AlgIST\obj\Debug\net6.0-windows\ref\AlgIST.dll
