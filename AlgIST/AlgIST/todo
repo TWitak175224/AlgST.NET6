@@ -9,4 +9,18 @@ itd. itd.
 potem zmieniamy odległości i sąsiadów o ile dystans mniejszy od tego co jest
 
 
+robimy klasę element
+NodeG1 węzeł
+int dystans
+NodeG1 poprzednik
 
+i zwracamy tablicę elementów
+
+Element[] AlgDJikstry(NodeG1 start){
+var tabelka=this.przygTabelke(start)//wszedzie dajemy int.maxVal oprócz startu gdzie dajem 0
+var zbS = new LIST<NodeG1>()
+pętla
+  wyszukaj najm.dystans(tabelka,zbS) OR var wynik=tabelka.Where(e=>!zbS.Contains(e.wesel)).OrderBy(e=>e.dystans)First();
+  sprawdzanie sąsiadów OR var SonsiadKrawendz=this.edges.Where(k=>k.start==wynik.wezel&& !zbS.Contains(k.end).ToList()
+
+}
