@@ -1,0 +1,12 @@
+schemat djikstry, konstruktory grafu, węzła, krawędzi,
+schemat djikstry:
+dostaje graf i początek
+zaczynamy od początku, jego odległość to 0
+dodajemy do tablicy sprawdzonych
+sprawdzamy sąsiadów( where start= wezeł sprawdzany)
+zmieniamy w tablicy odległości i poprzedników
+itd. itd.
+potem zmieniamy odległości i sąsiadów o ile dystans mniejszy od tego co jest
+
+
+
